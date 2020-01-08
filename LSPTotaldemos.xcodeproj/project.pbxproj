@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F332C71822CC9E8600E24B15 /* LSPPermissionsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F332C71722CC9E8600E24B15 /* LSPPermissionsVC.m */; };
+		F339AC6922E843E20046F612 /* LSPOperationTestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F339AC6822E843E20046F612 /* LSPOperationTestVC.m */; };
+		F33C5E702232762E00C61769 /* LSPThreadVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F33C5E6F2232762E00C61769 /* LSPThreadVC.m */; };
+		F3419F4321D358CB001ED970 /* LSPWebViewVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F3419F4221D358CB001ED970 /* LSPWebViewVC.m */; };
+		F3419F4621D358DC001ED970 /* LSPWKWebViewVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F3419F4521D358DC001ED970 /* LSPWKWebViewVC.m */; };
+		F3419F5B21D36C26001ED970 /* TestViewConteroller.m in Sources */ = {isa = PBXBuildFile; fileRef = F3419F4921D36C26001ED970 /* TestViewConteroller.m */; };
+		F3419F5C21D36C26001ED970 /* HXFTransverseTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = F3419F4C21D36C26001ED970 /* HXFTransverseTableView.m */; };
+		F3419F5D21D36C26001ED970 /* HXFTransverseTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F3419F4F21D36C26001ED970 /* HXFTransverseTableViewCell.m */; };
+		F3419F5E21D36C26001ED970 /* img9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5121D36C26001ED970 /* img9.jpg */; };
+		F3419F5F21D36C26001ED970 /* img8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5221D36C26001ED970 /* img8.jpg */; };
+		F3419F6021D36C26001ED970 /* img5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5321D36C26001ED970 /* img5.jpg */; };
+		F3419F6121D36C26001ED970 /* img4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5421D36C26001ED970 /* img4.jpg */; };
+		F3419F6221D36C26001ED970 /* img6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5521D36C26001ED970 /* img6.jpg */; };
+		F3419F6321D36C26001ED970 /* img7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5621D36C26001ED970 /* img7.jpg */; };
+		F3419F6421D36C26001ED970 /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5721D36C26001ED970 /* img3.jpg */; };
+		F3419F6521D36C26001ED970 /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5821D36C26001ED970 /* img2.jpg */; };
+		F3419F6621D36C26001ED970 /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5921D36C26001ED970 /* img1.jpg */; };
+		F3419F6721D36C26001ED970 /* img10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3419F5A21D36C26001ED970 /* img10.jpg */; };
+		F38BA0B6230268F60073C193 /* LSPExcelVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F38BA0B5230268F60073C193 /* LSPExcelVC.m */; };
+		F38D358F2301191F00ABA51F /* LSPButtonVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F38D358E2301191F00ABA51F /* LSPButtonVC.m */; };
+		F38D359823013C1200ABA51F /* UIButton+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = F38D359723013C1200ABA51F /* UIButton+Extension.m */; };
+		F394B6B121D1C9DF004576DE /* LSPCommonTool.m in Sources */ = {isa = PBXBuildFile; fileRef = F394B6B021D1C9DF004576DE /* LSPCommonTool.m */; };
+		F394B6B421D1D1A0004576DE /* LSPCollectionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F394B6B321D1D1A0004576DE /* LSPCollectionVC.m */; };
+		F394B6B921D1DC4E004576DE /* LSPCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F394B6B821D1DC4E004576DE /* LSPCollectionViewCell.m */; };
+		F394B6BD21D22E69004576DE /* LSPARViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F394B6BC21D22E69004576DE /* LSPARViewController.m */; };
+		F3CCAE8C21DCACFE007B3D6D /* LSPTestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = F3CCAE8B21DCACFE007B3D6D /* LSPTestVC.m */; };
+		F3CCAE9221DCAEB2007B3D6D /* UIColor+HXFTool.m in Sources */ = {isa = PBXBuildFile; fileRef = F3CCAE9021DCAEB2007B3D6D /* UIColor+HXFTool.m */; };
+		F3CCAE9321DCAEB2007B3D6D /* UIColor+HXFNSStringTool.m in Sources */ = {isa = PBXBuildFile; fileRef = F3CCAE9121DCAEB2007B3D6D /* UIColor+HXFNSStringTool.m */; };
 		F3E1CDDB21CCD4F400F04AD0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E1CDDA21CCD4F400F04AD0 /* AppDelegate.m */; };
 		F3E1CDDE21CCD4F400F04AD0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E1CDDD21CCD4F400F04AD0 /* ViewController.m */; };
 		F3E1CDE121CCD4F400F04AD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3E1CDDF21CCD4F400F04AD0 /* Main.storyboard */; };
@@ -16,6 +44,53 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F332C71622CC9E8600E24B15 /* LSPPermissionsVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPPermissionsVC.h; sourceTree = "<group>"; };
+		F332C71722CC9E8600E24B15 /* LSPPermissionsVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPPermissionsVC.m; sourceTree = "<group>"; };
+		F339AC6722E843E20046F612 /* LSPOperationTestVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPOperationTestVC.h; sourceTree = "<group>"; };
+		F339AC6822E843E20046F612 /* LSPOperationTestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPOperationTestVC.m; sourceTree = "<group>"; };
+		F33C5E6E2232762E00C61769 /* LSPThreadVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPThreadVC.h; sourceTree = "<group>"; };
+		F33C5E6F2232762E00C61769 /* LSPThreadVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPThreadVC.m; sourceTree = "<group>"; };
+		F3419F4121D358CB001ED970 /* LSPWebViewVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPWebViewVC.h; sourceTree = "<group>"; };
+		F3419F4221D358CB001ED970 /* LSPWebViewVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPWebViewVC.m; sourceTree = "<group>"; };
+		F3419F4421D358DC001ED970 /* LSPWKWebViewVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPWKWebViewVC.h; sourceTree = "<group>"; };
+		F3419F4521D358DC001ED970 /* LSPWKWebViewVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPWKWebViewVC.m; sourceTree = "<group>"; };
+		F3419F4921D36C26001ED970 /* TestViewConteroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewConteroller.m; sourceTree = "<group>"; };
+		F3419F4A21D36C26001ED970 /* TestViewConteroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewConteroller.h; sourceTree = "<group>"; };
+		F3419F4C21D36C26001ED970 /* HXFTransverseTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXFTransverseTableView.m; sourceTree = "<group>"; };
+		F3419F4D21D36C26001ED970 /* HXFTransverseTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXFTransverseTableViewCell.h; sourceTree = "<group>"; };
+		F3419F4E21D36C26001ED970 /* HXFTransverseTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXFTransverseTableView.h; sourceTree = "<group>"; };
+		F3419F4F21D36C26001ED970 /* HXFTransverseTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXFTransverseTableViewCell.m; sourceTree = "<group>"; };
+		F3419F5121D36C26001ED970 /* img9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img9.jpg; sourceTree = "<group>"; };
+		F3419F5221D36C26001ED970 /* img8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img8.jpg; sourceTree = "<group>"; };
+		F3419F5321D36C26001ED970 /* img5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img5.jpg; sourceTree = "<group>"; };
+		F3419F5421D36C26001ED970 /* img4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img4.jpg; sourceTree = "<group>"; };
+		F3419F5521D36C26001ED970 /* img6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img6.jpg; sourceTree = "<group>"; };
+		F3419F5621D36C26001ED970 /* img7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img7.jpg; sourceTree = "<group>"; };
+		F3419F5721D36C26001ED970 /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
+		F3419F5821D36C26001ED970 /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		F3419F5921D36C26001ED970 /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpg; sourceTree = "<group>"; };
+		F3419F5A21D36C26001ED970 /* img10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img10.jpg; sourceTree = "<group>"; };
+		F38BA0B4230268F60073C193 /* LSPExcelVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPExcelVC.h; sourceTree = "<group>"; };
+		F38BA0B5230268F60073C193 /* LSPExcelVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPExcelVC.m; sourceTree = "<group>"; };
+		F38D358D2301191F00ABA51F /* LSPButtonVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPButtonVC.h; sourceTree = "<group>"; };
+		F38D358E2301191F00ABA51F /* LSPButtonVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPButtonVC.m; sourceTree = "<group>"; };
+		F38D359623013C1200ABA51F /* UIButton+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+Extension.h"; sourceTree = "<group>"; };
+		F38D359723013C1200ABA51F /* UIButton+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Extension.m"; sourceTree = "<group>"; };
+		F394B6AF21D1C9DF004576DE /* LSPCommonTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPCommonTool.h; sourceTree = "<group>"; };
+		F394B6B021D1C9DF004576DE /* LSPCommonTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPCommonTool.m; sourceTree = "<group>"; };
+		F394B6B221D1D1A0004576DE /* LSPCollectionVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPCollectionVC.h; sourceTree = "<group>"; };
+		F394B6B321D1D1A0004576DE /* LSPCollectionVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPCollectionVC.m; sourceTree = "<group>"; };
+		F394B6B621D1D376004576DE /* LSPTotaldemos.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPTotaldemos.pch; sourceTree = "<group>"; };
+		F394B6B721D1DC4E004576DE /* LSPCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPCollectionViewCell.h; sourceTree = "<group>"; };
+		F394B6B821D1DC4E004576DE /* LSPCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPCollectionViewCell.m; sourceTree = "<group>"; };
+		F394B6BB21D22E69004576DE /* LSPARViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPARViewController.h; sourceTree = "<group>"; };
+		F394B6BC21D22E69004576DE /* LSPARViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPARViewController.m; sourceTree = "<group>"; };
+		F3CCAE8A21DCACFE007B3D6D /* LSPTestVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPTestVC.h; sourceTree = "<group>"; };
+		F3CCAE8B21DCACFE007B3D6D /* LSPTestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSPTestVC.m; sourceTree = "<group>"; };
+		F3CCAE8E21DCAEB2007B3D6D /* UIColor+HXFTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HXFTool.h"; sourceTree = "<group>"; };
+		F3CCAE8F21DCAEB2007B3D6D /* UIColor+HXFNSStringTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HXFNSStringTool.h"; sourceTree = "<group>"; };
+		F3CCAE9021DCAEB2007B3D6D /* UIColor+HXFTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HXFTool.m"; sourceTree = "<group>"; };
+		F3CCAE9121DCAEB2007B3D6D /* UIColor+HXFNSStringTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HXFNSStringTool.m"; sourceTree = "<group>"; };
 		F3E1CDD621CCD4F400F04AD0 /* LSPTotaldemos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LSPTotaldemos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3E1CDD921CCD4F400F04AD0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F3E1CDDA21CCD4F400F04AD0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -26,6 +101,7 @@
 		F3E1CDE521CCD4F500F04AD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3E1CDE721CCD4F500F04AD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F3E1CDE821CCD4F500F04AD0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F3E1CDF621CCD73200F04AD0 /* LSPConfiguration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSPConfiguration.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +115,93 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F33C5E6D2232760800C61769 /* LSPThread */ = {
+			isa = PBXGroup;
+			children = (
+				F33C5E6E2232762E00C61769 /* LSPThreadVC.h */,
+				F33C5E6F2232762E00C61769 /* LSPThreadVC.m */,
+			);
+			path = LSPThread;
+			sourceTree = "<group>";
+		};
+		F3419F4721D36C26001ED970 /* 横向tableView */ = {
+			isa = PBXGroup;
+			children = (
+				F3419F4821D36C26001ED970 /* TestViewConteroller */,
+				F3419F4B21D36C26001ED970 /* HXFTransverseTableView */,
+				F3419F5021D36C26001ED970 /* SourceImage */,
+			);
+			path = "横向tableView";
+			sourceTree = "<group>";
+		};
+		F3419F4821D36C26001ED970 /* TestViewConteroller */ = {
+			isa = PBXGroup;
+			children = (
+				F3419F4921D36C26001ED970 /* TestViewConteroller.m */,
+				F3419F4A21D36C26001ED970 /* TestViewConteroller.h */,
+			);
+			path = TestViewConteroller;
+			sourceTree = "<group>";
+		};
+		F3419F4B21D36C26001ED970 /* HXFTransverseTableView */ = {
+			isa = PBXGroup;
+			children = (
+				F3419F4C21D36C26001ED970 /* HXFTransverseTableView.m */,
+				F3419F4D21D36C26001ED970 /* HXFTransverseTableViewCell.h */,
+				F3419F4E21D36C26001ED970 /* HXFTransverseTableView.h */,
+				F3419F4F21D36C26001ED970 /* HXFTransverseTableViewCell.m */,
+			);
+			path = HXFTransverseTableView;
+			sourceTree = "<group>";
+		};
+		F3419F5021D36C26001ED970 /* SourceImage */ = {
+			isa = PBXGroup;
+			children = (
+				F3419F5121D36C26001ED970 /* img9.jpg */,
+				F3419F5221D36C26001ED970 /* img8.jpg */,
+				F3419F5321D36C26001ED970 /* img5.jpg */,
+				F3419F5421D36C26001ED970 /* img4.jpg */,
+				F3419F5521D36C26001ED970 /* img6.jpg */,
+				F3419F5621D36C26001ED970 /* img7.jpg */,
+				F3419F5721D36C26001ED970 /* img3.jpg */,
+				F3419F5821D36C26001ED970 /* img2.jpg */,
+				F3419F5921D36C26001ED970 /* img1.jpg */,
+				F3419F5A21D36C26001ED970 /* img10.jpg */,
+			);
+			path = SourceImage;
+			sourceTree = "<group>";
+		};
+		F394B6AE21D1C995004576DE /* LSPTools */ = {
+			isa = PBXGroup;
+			children = (
+				F394B6AF21D1C9DF004576DE /* LSPCommonTool.h */,
+				F394B6B021D1C9DF004576DE /* LSPCommonTool.m */,
+				F38D359623013C1200ABA51F /* UIButton+Extension.h */,
+				F38D359723013C1200ABA51F /* UIButton+Extension.m */,
+			);
+			path = LSPTools;
+			sourceTree = "<group>";
+		};
+		F394B6BA21D229E4004576DE /* LSPARFiles */ = {
+			isa = PBXGroup;
+			children = (
+				F394B6BB21D22E69004576DE /* LSPARViewController.h */,
+				F394B6BC21D22E69004576DE /* LSPARViewController.m */,
+			);
+			path = LSPARFiles;
+			sourceTree = "<group>";
+		};
+		F3CCAE8D21DCAEB2007B3D6D /* UIColor+Tool */ = {
+			isa = PBXGroup;
+			children = (
+				F3CCAE8E21DCAEB2007B3D6D /* UIColor+HXFTool.h */,
+				F3CCAE8F21DCAEB2007B3D6D /* UIColor+HXFNSStringTool.h */,
+				F3CCAE9021DCAEB2007B3D6D /* UIColor+HXFTool.m */,
+				F3CCAE9121DCAEB2007B3D6D /* UIColor+HXFNSStringTool.m */,
+			);
+			path = "UIColor+Tool";
+			sourceTree = "<group>";
+		};
 		F3E1CDCD21CCD4F400F04AD0 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +225,13 @@
 				F3E1CDDA21CCD4F400F04AD0 /* AppDelegate.m */,
 				F3E1CDDC21CCD4F400F04AD0 /* ViewController.h */,
 				F3E1CDDD21CCD4F400F04AD0 /* ViewController.m */,
+				F33C5E6D2232760800C61769 /* LSPThread */,
+				F3419F4721D36C26001ED970 /* 横向tableView */,
+				F3E1CDF321CCD63D00F04AD0 /* LSPSource */,
+				F3E1CDF121CCD61C00F04AD0 /* LSPCommon */,
+				F3E1CDF521CCD67700F04AD0 /* LSPView */,
+				F3E1CDF421CCD66A00F04AD0 /* LSPVC */,
+				F394B6BA21D229E4004576DE /* LSPARFiles */,
 				F3E1CDDF21CCD4F400F04AD0 /* Main.storyboard */,
 				F3E1CDE221CCD4F500F04AD0 /* Assets.xcassets */,
 				F3E1CDE421CCD4F500F04AD0 /* LaunchScreen.storyboard */,
@@ -69,6 +239,64 @@
 				F3E1CDE821CCD4F500F04AD0 /* main.m */,
 			);
 			path = LSPTotaldemos;
+			sourceTree = "<group>";
+		};
+		F3E1CDF121CCD61C00F04AD0 /* LSPCommon */ = {
+			isa = PBXGroup;
+			children = (
+				F394B6AE21D1C995004576DE /* LSPTools */,
+				F3E1CDF221CCD62300F04AD0 /* LSPMacros */,
+			);
+			path = LSPCommon;
+			sourceTree = "<group>";
+		};
+		F3E1CDF221CCD62300F04AD0 /* LSPMacros */ = {
+			isa = PBXGroup;
+			children = (
+				F3E1CDF621CCD73200F04AD0 /* LSPConfiguration.h */,
+				F394B6B621D1D376004576DE /* LSPTotaldemos.pch */,
+			);
+			path = LSPMacros;
+			sourceTree = "<group>";
+		};
+		F3E1CDF321CCD63D00F04AD0 /* LSPSource */ = {
+			isa = PBXGroup;
+			children = (
+				F3CCAE8D21DCAEB2007B3D6D /* UIColor+Tool */,
+			);
+			path = LSPSource;
+			sourceTree = "<group>";
+		};
+		F3E1CDF421CCD66A00F04AD0 /* LSPVC */ = {
+			isa = PBXGroup;
+			children = (
+				F394B6B221D1D1A0004576DE /* LSPCollectionVC.h */,
+				F394B6B321D1D1A0004576DE /* LSPCollectionVC.m */,
+				F394B6B721D1DC4E004576DE /* LSPCollectionViewCell.h */,
+				F394B6B821D1DC4E004576DE /* LSPCollectionViewCell.m */,
+				F3419F4121D358CB001ED970 /* LSPWebViewVC.h */,
+				F3419F4221D358CB001ED970 /* LSPWebViewVC.m */,
+				F3419F4421D358DC001ED970 /* LSPWKWebViewVC.h */,
+				F3419F4521D358DC001ED970 /* LSPWKWebViewVC.m */,
+				F3CCAE8A21DCACFE007B3D6D /* LSPTestVC.h */,
+				F3CCAE8B21DCACFE007B3D6D /* LSPTestVC.m */,
+				F332C71622CC9E8600E24B15 /* LSPPermissionsVC.h */,
+				F332C71722CC9E8600E24B15 /* LSPPermissionsVC.m */,
+				F339AC6722E843E20046F612 /* LSPOperationTestVC.h */,
+				F339AC6822E843E20046F612 /* LSPOperationTestVC.m */,
+				F38D358D2301191F00ABA51F /* LSPButtonVC.h */,
+				F38D358E2301191F00ABA51F /* LSPButtonVC.m */,
+				F38BA0B4230268F60073C193 /* LSPExcelVC.h */,
+				F38BA0B5230268F60073C193 /* LSPExcelVC.m */,
+			);
+			path = LSPVC;
+			sourceTree = "<group>";
+		};
+		F3E1CDF521CCD67700F04AD0 /* LSPView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LSPView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +356,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3419F6121D36C26001ED970 /* img4.jpg in Resources */,
+				F3419F6621D36C26001ED970 /* img1.jpg in Resources */,
+				F3419F6721D36C26001ED970 /* img10.jpg in Resources */,
+				F3419F6421D36C26001ED970 /* img3.jpg in Resources */,
 				F3E1CDE621CCD4F500F04AD0 /* LaunchScreen.storyboard in Resources */,
+				F3419F6221D36C26001ED970 /* img6.jpg in Resources */,
+				F3419F6021D36C26001ED970 /* img5.jpg in Resources */,
+				F3419F6321D36C26001ED970 /* img7.jpg in Resources */,
+				F3419F5F21D36C26001ED970 /* img8.jpg in Resources */,
+				F3419F5E21D36C26001ED970 /* img9.jpg in Resources */,
 				F3E1CDE321CCD4F500F04AD0 /* Assets.xcassets in Resources */,
+				F3419F6521D36C26001ED970 /* img2.jpg in Resources */,
 				F3E1CDE121CCD4F400F04AD0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,9 +379,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3CCAE9321DCAEB2007B3D6D /* UIColor+HXFNSStringTool.m in Sources */,
+				F38D359823013C1200ABA51F /* UIButton+Extension.m in Sources */,
+				F394B6B121D1C9DF004576DE /* LSPCommonTool.m in Sources */,
+				F332C71822CC9E8600E24B15 /* LSPPermissionsVC.m in Sources */,
+				F394B6BD21D22E69004576DE /* LSPARViewController.m in Sources */,
+				F3419F4321D358CB001ED970 /* LSPWebViewVC.m in Sources */,
+				F3419F4621D358DC001ED970 /* LSPWKWebViewVC.m in Sources */,
 				F3E1CDDE21CCD4F400F04AD0 /* ViewController.m in Sources */,
 				F3E1CDE921CCD4F500F04AD0 /* main.m in Sources */,
+				F3419F5B21D36C26001ED970 /* TestViewConteroller.m in Sources */,
+				F33C5E702232762E00C61769 /* LSPThreadVC.m in Sources */,
+				F394B6B421D1D1A0004576DE /* LSPCollectionVC.m in Sources */,
+				F3CCAE9221DCAEB2007B3D6D /* UIColor+HXFTool.m in Sources */,
+				F38BA0B6230268F60073C193 /* LSPExcelVC.m in Sources */,
+				F394B6B921D1DC4E004576DE /* LSPCollectionViewCell.m in Sources */,
+				F3419F5D21D36C26001ED970 /* HXFTransverseTableViewCell.m in Sources */,
+				F339AC6922E843E20046F612 /* LSPOperationTestVC.m in Sources */,
 				F3E1CDDB21CCD4F400F04AD0 /* AppDelegate.m in Sources */,
+				F3419F5C21D36C26001ED970 /* HXFTransverseTableView.m in Sources */,
+				F38D358F2301191F00ABA51F /* LSPButtonVC.m in Sources */,
+				F3CCAE8C21DCACFE007B3D6D /* LSPTestVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +542,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8858GLHKNB;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = LSPTotaldemos/LSPCommon/LSPMacros/LSPTotaldemos.pch;
 				INFOPLIST_FILE = LSPTotaldemos/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +562,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8858GLHKNB;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = LSPTotaldemos/LSPCommon/LSPMacros/LSPTotaldemos.pch;
 				INFOPLIST_FILE = LSPTotaldemos/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
